@@ -1,8 +1,6 @@
 - 👋 Hi, I’m simranpreet-manesh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
+- 👀 I’m interested in web deveplment
+- 🌱 I’m currently learning Nextjs
 
 
 <h1 align="center">Hi 👋, I'm simranpreet singh</h1>
